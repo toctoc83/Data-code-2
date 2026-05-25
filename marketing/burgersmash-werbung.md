@@ -4,9 +4,9 @@
 
 ![Poster](assets/burgersmash/poster-small.jpg)
 
-![Square](assets/burgersmash/square-small.jpg)
+![Square](assets/burgersmash/img2.jpg)
 
-![Wide](assets/burgersmash/wide-small.jpg)
+![Wide](assets/burgersmash/p3.jpg)
 
 ## Headline
 **BURGERSMASH - Der Burger, der richtig kracht.**
