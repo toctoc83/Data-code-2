@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050505"/><stop offset="0.62" stop-color="#140606"/><stop offset="1" stop-color="#801010"/></linearGradient>
+    <linearGradient id="cheese" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd33d"/><stop offset="1" stop-color="#f58220"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#000" flood-opacity="0.6"/></filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1410" cy="760" r="290" fill="#e31b23" opacity="0.16"/>
+  <circle cx="180" cy="140" r="220" fill="#ffae22" opacity="0.10"/>
+
+  <text x="90" y="145" font-family="Impact, Arial Black" font-size="115" fill="#f6efe6">BURGER<tspan fill="#e31b23">SMASH</tspan></text>
+  <path d="M100 175 L780 150" stroke="#e31b23" stroke-width="12" stroke-linecap="round"/>
+  <text x="90" y="305" font-family="Impact, Arial Black" font-size="84" fill="#f6efe6">Der Burger,</text>
+  <text x="90" y="395" font-family="Impact, Arial Black" font-size="84" fill="#f6efe6">der richtig <tspan fill="#ffae22">kracht.</tspan></text>
+  <rect x="90" y="455" width="620" height="80" rx="12" fill="#ffae22" transform="rotate(-2 400 495)"/>
+  <text x="120" y="512" font-family="Arial Black, Arial" font-size="42" fill="#111">Smash Deal: Burger + Fries + Drink</text>
+  <rect x="90" y="615" width="520" height="92" rx="14" fill="#d71920" transform="rotate(-2 350 660)"/>
+  <text x="350" y="680" text-anchor="middle" font-family="Impact, Arial Black" font-size="67" fill="#fff">Jetzt probieren!</text>
+  <text x="90" y="800" font-family="Arial Black, Arial" font-size="46" fill="#fff"><tspan fill="#ffae22">Smash</tspan> deinen Hunger.</text>
+
+  <g filter="url(#shadow)" transform="translate(760 205) scale(1.05)">
+    <ellipse cx="350" cy="545" rx="365" ry="55" fill="#000" opacity="0.38"/>
+    <path d="M50 185 C80 45 650 45 700 185 C660 235 90 235 50 185Z" fill="#bd5f20"/>
+    <path d="M90 250 C230 210 540 210 675 250 L675 305 C535 348 235 348 90 305Z" fill="#3d160f"/>
+    <path d="M125 305 L650 305 L585 365 L190 365Z" fill="url(#cheese)"/>
+    <path d="M95 365 C235 325 540 325 675 365 L675 420 C535 462 235 462 95 420Z" fill="#33110b"/>
+    <path d="M130 420 L645 420 L570 485 L205 485Z" fill="url(#cheese)"/>
+    <path d="M105 485 C245 450 535 450 660 485 C630 540 145 540 105 485Z" fill="#4fa22d"/>
+    <path d="M80 555 C130 635 635 635 700 555 C650 705 130 705 80 555Z" fill="#c96e24"/>
+    <g fill="#f4f0de"><rect x="295" y="220" width="35" height="27" rx="5"/><rect x="390" y="216" width="35" height="27" rx="5"/><rect x="485" y="230" width="35" height="27" rx="5"/></g>
+  </g>
+
+  <g transform="translate(1260 165)">
+    <rect x="0" y="0" width="170" height="430" rx="42" fill="#2b120c" stroke="#f6efe6" stroke-width="8" opacity="0.95"/>
+    <g fill="#d8e7f0" opacity="0.8"><circle cx="45" cy="60" r="18"/><circle cx="105" cy="100" r="20"/><circle cx="75" cy="160" r="17"/><circle cx="120" cy="240" r="19"/></g>
+    <text x="85" y="240" text-anchor="middle" font-family="Impact, Arial Black" font-size="34" fill="#f6efe6">BURGER</text>
+    <text x="85" y="280" text-anchor="middle" font-family="Impact, Arial Black" font-size="38" fill="#e31b23">SMASH</text>
+  </g>
+</svg>
