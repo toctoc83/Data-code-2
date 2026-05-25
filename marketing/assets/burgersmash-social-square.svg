@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#060606"/><stop offset="1" stop-color="#8b0f0f"/></linearGradient>
+    <linearGradient id="bun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7a13a"/><stop offset="1" stop-color="#9b4a18"/></linearGradient>
+    <linearGradient id="cheese" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd33d"/><stop offset="1" stop-color="#f58220"/></linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity="0.55"/></filter>
+  </defs>
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+  <circle cx="900" cy="160" r="210" fill="#f58220" opacity="0.12"/>
+  <circle cx="120" cy="900" r="250" fill="#e31b23" opacity="0.17"/>
+  <text x="540" y="135" text-anchor="middle" font-family="Impact, Arial Black" font-size="112" fill="#f6efe6">BURGER<tspan fill="#e31b23">SMASH</tspan></text>
+  <path d="M225 160 L855 138" stroke="#e31b23" stroke-width="11" stroke-linecap="round"/>
+  <text x="540" y="230" text-anchor="middle" font-family="Arial Black, Arial" font-size="58" fill="#ffae22">Smash Deal</text>
+  <text x="540" y="305" text-anchor="middle" font-family="Impact, Arial Black" font-size="74" fill="#fff">Burger + Fries + Drink</text>
+
+  <g filter="url(#shadow)" transform="translate(170 345)">
+    <path d="M95 165 C120 60 650 60 685 165 C660 205 125 205 95 165Z" fill="url(#bun)"/>
+    <path d="M120 215 C250 175 545 175 660 215 L660 265 C520 305 250 305 120 265Z" fill="#40170f"/>
+    <path d="M150 265 L635 265 L570 320 L205 320Z" fill="url(#cheese)"/>
+    <path d="M125 320 C245 285 545 285 655 320 L655 370 C515 410 245 410 125 370Z" fill="#36130d"/>
+    <path d="M155 370 L625 370 L555 428 L215 428Z" fill="url(#cheese)"/>
+    <path d="M120 430 C250 400 535 400 660 430 C630 485 150 485 120 430Z" fill="#4fa22d"/>
+    <path d="M100 500 C140 570 630 570 680 500 C640 635 140 635 100 500Z" fill="#c96e24"/>
+    <g fill="#f4f0de"><rect x="300" y="190" width="34" height="26" rx="5"/><rect x="390" y="185" width="34" height="26" rx="5"/><rect x="485" y="195" width="34" height="26" rx="5"/></g>
+  </g>
+
+  <rect x="170" y="845" width="740" height="95" rx="16" fill="#d71920" transform="rotate(-2 540 892)"/>
+  <text x="540" y="910" text-anchor="middle" font-family="Impact, Arial Black" font-size="66" fill="#fff">Jetzt probieren!</text>
+  <text x="540" y="995" text-anchor="middle" font-family="Arial Black, Arial" font-size="42" fill="#fff"><tspan fill="#ffae22">Heiß.</tspan> <tspan fill="#e31b23">Saftig.</tspan> Smash-gebraten.</text>
+  <text x="540" y="1048" text-anchor="middle" font-family="Arial Black, Arial" font-size="34" fill="#fff">Smash deinen Hunger</text>
+</svg>
