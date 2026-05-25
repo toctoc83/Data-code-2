@@ -1,9 +1,5 @@
 # Burgersmash Werbung
 
-## Werbebild
-
-![Burgersmash fotorealistischer Werbebanner](assets/photorealistic/burgersmash-banner-photorealistic.svg)
-
 ## Headline
 **BURGERSMASH - Der Burger, der richtig kracht.**
 
