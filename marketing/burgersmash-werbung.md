@@ -1,5 +1,13 @@
 # Burgersmash Werbung
 
+## Assets
+
+![Poster](assets/burgersmash/poster-small.jpg)
+
+![Square](assets/burgersmash/square-small.jpg)
+
+![Wide](assets/burgersmash/wide-small.jpg)
+
 ## Headline
 **BURGERSMASH - Der Burger, der richtig kracht.**
 
