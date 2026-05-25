@@ -1,37 +1,41 @@
 # Burgersmash Werbung
 
+## Werbebild
+
+![Burgersmash fotorealistischer Werbebanner](assets/photorealistic/burgersmash-banner-photorealistic.svg)
+
 ## Headline
-**BURGERSMASH — Der Burger, der richtig kracht.**
+**BURGERSMASH - Der Burger, der richtig kracht.**
 
 ## Kurz-Slogan
-Heiß. Saftig. Smash-gebraten.
+Heiss. Saftig. Smash-gebraten.
 
 ## Werbetext
-Willkommen bei **Burgersmash**, dem Fastfood-Laden für alle, die keinen langweiligen Burger wollen. Bei uns landet frisches Beef direkt auf der heißen Platte, wird knusprig gesmasht und mit geschmolzenem Käse, knackigem Salat, würziger Sauce und fluffigen Buns serviert.
+Willkommen bei **Burgersmash**, dem Fastfood-Laden fuer alle, die keinen langweiligen Burger wollen. Bei uns landet frisches Beef direkt auf der heissen Platte, wird knusprig gesmasht und mit geschmolzenem Kaese, knackigem Salat, wuerziger Sauce und fluffigen Buns serviert.
 
-Jeder Burger ist schnell gemacht, aber nicht schnell vergessen: außen röstaromatisch, innen saftig, oben drauf genau die Sauce, die süchtig macht.
+Jeder Burger ist schnell gemacht, aber nicht schnell vergessen: aussen roestaromatisch, innen saftig, oben drauf genau die Sauce, die suechtig macht.
 
 ## Angebot-Idee
 **Smash Deal:** Burger + Fries + Drink zum Spezialpreis.
 
 ## Social-Media-Post
-🔥 Heute Hunger auf etwas Echtes?
+Heute Hunger auf etwas Echtes?
 
 Dann komm zu **Burgersmash** und hol dir den Smash-Burger, der knuspert, tropft und richtig satt macht.
 
-🍔 Frisch gesmasht  
-🍟 Goldene Fries  
-🥤 Eiskalter Drink  
-⚡ Schnell serviert
+- Frisch gesmasht
+- Goldene Fries
+- Eiskalter Drink
+- Schnell serviert
 
-**Burgersmash — Smash deinen Hunger.**
+**Burgersmash - Smash deinen Hunger.**
 
 ## Plakattext
 **BURGERSMASH**
 
-Der Fastfood-Laden für echte Burger-Fans.
+Der Fastfood-Laden fuer echte Burger-Fans.
 
-Smash Burger • Fries • Drinks • Big Flavor
+Smash Burger - Fries - Drinks - Big Flavor
 
 **Jetzt probieren und Hunger wegsmashen!**
 
