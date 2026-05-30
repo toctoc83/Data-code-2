@@ -44,6 +44,106 @@ Alle Beträge sind in USD pro Jahr. `Total Comp` bedeutet ungefähr: Base Salary
 | L10 | Google Fellow / sehr außergewöhnlicher Principal/Fellow-Level | Nicht verlässlich öffentlich | Nicht verlässlich öffentlich | Nicht verlässlich öffentlich | Nicht verlässlich öffentlich | Sehr dünn | Wahrscheinlich oft mehrere Millionen USD Total Comp möglich, aber nicht sauber öffentlich belegbar |
 | L11 | Senior Google Fellow / absoluter Top-IC-Level | Nicht verlässlich öffentlich | Nicht verlässlich öffentlich | Nicht verlässlich öffentlich | Nicht verlässlich öffentlich | Sehr dünn | Extrem selten; öffentliche Durchschnittszahl wäre unseriös |
 
+## Euro-Orientierung
+
+Die folgende Tabelle rechnet grob mit 1 USD = 0,92 EUR. Das ist nur eine Orientierung, weil Wechselkurse schwanken. Außerdem ist das Brutto-/Total-Compensation, nicht Netto.
+
+| Level | Total Comp USD/Jahr | Grob in EUR/Jahr |
+|---|---:|---:|
+| L3 | 222.000 | 204.240 |
+| L4 | 314.000 | 288.880 |
+| L5 | 447.000 | 411.240 |
+| L6 | 617.000 | 567.640 |
+| L7 | 966.481 | 889.162 |
+| L8 | 1.114.133 | 1.025.002 |
+| L9 | 2.243.800 | 2.064.296 |
+| L10 | Nicht verlässlich öffentlich | Nicht verlässlich öffentlich |
+| L11 | Nicht verlässlich öffentlich | Nicht verlässlich öffentlich |
+
+## Brutto, Netto und Total Compensation
+
+In den USA ist `Total Compensation` nicht einfach das Geld, das monatlich auf dem Konto landet.
+
+Wichtige Bestandteile:
+
+- Base Salary: relativ planbares Jahresgehalt.
+- Bonus: leistungsabhängig und nicht immer garantiert.
+- Equity / Aktien: oft sehr großer Teil bei höheren Levels. Der Wert schwankt mit dem Aktienkurs.
+- Steuern: Kalifornien hat hohe Einkommensteuern, zusätzlich kommen US-Bundessteuern und weitere Abgaben dazu.
+- Krankenversicherung: funktioniert anders als in Deutschland und hängt stark vom Arbeitgeberpaket ab.
+- Altersvorsorge: in den USA oft über 401(k), Aktien und private Sparpläne.
+
+Beispiel: Eine Total Compensation von 447.000 USD bei L5 heißt nicht, dass man 447.000 USD frei ausgeben kann. Ein großer Teil kann aus Aktien bestehen, und Steuern sowie Lebenshaltungskosten sind hoch.
+
+## ML Scientist vs ML Engineer vs Research Scientist vs Data Scientist
+
+| Rolle | Fokus | Typische Arbeit | Nähe zu Forschung | Nähe zu Produktion |
+|---|---|---|---|---|
+| Data Scientist | Datenanalyse, Experimente, Metriken | SQL, Python, Statistik, A/B-Tests, Dashboards | Mittel | Mittel |
+| ML Engineer | ML-Systeme bauen und skalieren | Training, Deployment, MLOps, Modell-Serving | Mittel | Hoch |
+| Research Scientist | Neue Methoden und Modelle erforschen | Papers, Experimente, neue Algorithmen, Prototypen | Sehr hoch | Mittel |
+| AI Researcher | Fortschritt in KI-Modellen treiben | LLMs, multimodale Modelle, RL, Architektur-Forschung | Sehr hoch | Mittel bis hoch |
+| Applied Scientist | Forschung praktisch anwenden | Modelle verbessern, Produktmetriken, Experimente | Hoch | Hoch |
+
+Für Google im AI-Bereich können ML Engineer, Research Scientist und AI Researcher ähnliche Levelstrukturen haben, aber die Erwartung unterscheidet sich: Research Scientist braucht oft sehr starke Forschung, häufig mit Master/PhD-Niveau. ML Engineer braucht extrem gute Software- und Systemfähigkeiten.
+
+## Karrierepfad L3 bis L11
+
+| Level | Grobe Erfahrung | Was man können muss | Realistische Einschätzung |
+|---|---|---|---|
+| L3 | 0-2 Jahre nach Studium | Gute Grundlagen, Coding, Mathe, ML-Basics | Einstieg bei Big Tech möglich, aber sehr kompetitiv |
+| L4 | 2-5 Jahre | Selbstständig Features/Modelle bauen | Solider Engineer/Scientist |
+| L5 | 5-8 Jahre | Große Projekte leiten, starke technische Entscheidungen | Senior-Level, sehr gutes Ziel |
+| L6 | 8-12+ Jahre | Staff-Level, Einfluss auf Systeme/Teams | Schwer, aber mit starker Karriere erreichbar |
+| L7 | 10-15+ Jahre | Einfluss über mehrere Teams/Organisationen | Sehr schwer |
+| L8 | 15+ Jahre | Principal-Level, technische Strategie | Extrem schwer |
+| L9 | Sehr selten | Distinguished-Level, massiver technischer Einfluss | Ausnahmelevel |
+| L10 | Extrem selten | Fellow-Level, weltklasse technischer Einfluss | Fast Legenden-Level |
+| L11 | Absolut extrem selten | Senior Fellow, historischer Einfluss | Eines der höchsten technischen Karrierelevel |
+
+## Lebenshaltungskosten im Silicon Valley
+
+Auch sehr hohe Gehälter fühlen sich in der Bay Area kleiner an, weil die Kosten extrem hoch sein können.
+
+| Kostenblock | Grobe Einordnung |
+|---|---|
+| Miete/Wohnen | Einer der größten Kostenpunkte; gute Wohnungen/Häuser können extrem teuer sein |
+| Steuern | Kalifornien + US-Bundessteuer können einen großen Teil nehmen |
+| Krankenversicherung | Oft gut bei Big Tech, aber System ist komplizierter als in Deutschland |
+| Auto/Transport | Je nach Wohnort wichtig; Pendeln kann teuer und zeitintensiv sein |
+| Essen/Alltag | Meist deutlich teurer als viele deutsche Städte |
+| Kinder/Familie | Betreuung, Schule und Wohnen können sehr teuer werden |
+| Sparrate | Trotzdem bei Big-Tech-Gehältern oft stark, wenn man Ausgaben kontrolliert |
+
+Wichtig: Ein L5- oder L6-Gehalt ist sehr stark, aber Silicon Valley ist kein normaler Standort. Man darf die Zahlen nicht 1:1 mit deutschen Gehältern vergleichen.
+
+## Quellenqualität
+
+| Quelle | Stärken | Schwächen | Bewertung |
+|---|---|---|---|
+| Levels.fyi | Gute Total-Compensation-Daten, Level-Aufteilung, Standortdaten | Self-reported, nicht offiziell von Google | Gut |
+| Visa-/H-1B-Daten | Relativ harte Base-Salary-Daten | Enthält meistens keine Aktien und keine Boni | Gut für Base, schlecht für Total Comp |
+| Business-/Presseartikel | Gut für Kontext und Gehaltsspannen | Oft nicht vollständig, manchmal nur Base Salary | Mittel |
+| Google selbst | Offiziell, wenn vorhanden | Keine öffentliche vollständige Gehaltsmatrix L3-L11 | Begrenzte Nutzung |
+| Einzelberichte online | Können Details liefern | Sehr anfällig für Ausreißer und Verwechslungen | Vorsichtig nutzen |
+
+## Realistische Zielroute für Lutz
+
+Langfristiges Ziel: Data Scientist / ML Engineer / AI Research-orientierter Entwickler, später vielleicht Google in Austin oder Silicon Valley.
+
+Eine starke Route könnte so aussehen:
+
+1. Jetzt: Python, Mathe, kleine Data-Science-Projekte, GitHub sauber nutzen.
+2. 11-14 Jahre: Grundlagen sehr stark machen: Python, JavaScript, Algebra, Statistik-Basics, Datenvisualisierung.
+3. 14-16 Jahre: echte Projekte bauen: ML-Dashboards, kleine neuronale Netze, Kaggle-ähnliche Experimente, eigene Webseiten mit Daten.
+4. 16-18 Jahre: Portfolio aufbauen: GitHub-Repos, gute README-Dateien, kleine Papers/Blogposts, vielleicht Open-Source-Beiträge.
+5. Studium: Informatik, Data Science, Mathematik oder KI-naher Studiengang in Deutschland oder später international.
+6. Praktika: ML/Data-Science-Praktika, vielleicht zuerst kleinere Firmen, später Big Tech.
+7. Master/PhD optional: Für Research Scientist sehr hilfreich; für ML Engineer nicht zwingend, aber starke Projekte sind Pflicht.
+8. Bewerbung Big Tech: LeetCode/Algorithmen, System Design, ML-Systemdesign, Statistik, Projektstorys.
+
+Wichtig: Für Google zählt nicht nur, dass man KI mag. Man braucht echte Skills: sauberes Coding, Mathematik, Datenverständnis, Durchhaltevermögen und Projekte, die man erklären kann.
+
 ## Warum L10-L11 nicht sauber bezifferbar sind
 
 L10 und L11 sind keine normalen Karrierelevel mit vielen öffentlichen Gehaltsmeldungen. Dort reden wir über absolute Top-Leute: Fellow, Senior Fellow, manchmal weltbekannte Forscher oder technische Führungspersonen. Die Bezahlung kann stark durch Aktienpakete, langfristige Retention Awards und individuelle Verhandlung beeinflusst werden.
