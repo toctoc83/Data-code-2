@@ -1,0 +1,10 @@
+level,title,total_comp_usd,base_salary_usd,stock_usd,bonus_usd,total_comp_eur_approx,data_quality,notes
+L3,"SWE II / Entry ML Engineer",222000,165000,31300,25000,204240,"Gut","Bay Area estimate from public compensation data"
+L4,"SWE III / ML Engineer",314000,198000,92200,23900,288880,"Gut","Bay Area estimate from public compensation data"
+L5,"Senior SWE / Senior ML Engineer",447000,236000,169000,41500,411240,"Gut","Typical senior-level estimate"
+L6,"Staff SWE / Staff ML Scientist-Engineer",617000,283000,308000,26400,567640,"Gut","Staff-level estimate"
+L7,"Senior Staff / High IC Level",966481,331091,544364,91026,889162,"Gut","Levels.fyi L7 Bay Area detail estimate"
+L8,"Principal Engineer / Principal Scientist-like",1114133,392500,623508,98125,1025002,"Mittel","Rare level; smaller public sample"
+L9,"Distinguished Engineer / Very high IC Level",2243800,412000,1690000,141800,2064296,"Mittel bis dünn","Very rare level; high variance"
+L10,"Google Fellow",,,,,,"Sehr dünn","No reliable public average; do not invent exact numbers"
+L11,"Senior Google Fellow",,,,,,"Sehr dünn","No reliable public average; do not invent exact numbers"
